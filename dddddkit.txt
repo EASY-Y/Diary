@@ -3,3 +3,7 @@ shubidubi blues
 ffffffffffgit 
 dd
 junkie's karte
+>>>>>>> 52a71cf2f87a9686d49ae24998e28e82df59ebec
+
+추운 겨울날 나는 치킨집에 치킨을 먹으러 갔다. 그것이 인생의 전환점이 될 줄은 당시의 나는 알지 못하지 아니하지 아니하였음에 확신하지 아니하였다.
+>>>>>>> ba8acb322474726f86279a1b5d9a2b0646055164
