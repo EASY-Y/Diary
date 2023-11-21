@@ -1,6 +1,7 @@
 그 해(물) 부산이었다. - 여름
 shubidubi blues
 ffffffffffgit 
+<<<<<<< HEAD
 
 
 (o;TωT)o
@@ -22,3 +23,10 @@ ffffffffffgit
 ノ )　　Lﾉ          
       
 junkie's karte
+=======
+<<<<<<< HEAD
+dd
+=======
+junkie's karte
+>>>>>>> 4a984212b4016d3d99b7536ee70fa7e391084f8f
+>>>>>>> 52a71cf2f87a9686d49ae24998e28e82df59ebec
